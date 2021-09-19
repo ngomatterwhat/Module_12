@@ -21,6 +21,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![](Images/challenge_12_prompt.png)
+
 For module 12, our class had to build a credit risk sampler to determine which borrower was "creditworthy". Utilizing, Python and our knowledge of Supervised Learning, we completed the challenge. 
 
 ### Built With
@@ -58,7 +60,8 @@ This section should list any major frameworks that you built your project using.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![](Images/challenge_12_prompt.png)
+![](Images/12_usage.png)
+![](12_usage_2.png)
 
 
 
