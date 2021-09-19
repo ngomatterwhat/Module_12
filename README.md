@@ -61,7 +61,7 @@ This section should list any major frameworks that you built your project using.
 ## Usage
 
 ![](Images/12_usage.png)
-![](12_usage_2.png)
+![](Images/12_usage_2.png)
 
 
 
